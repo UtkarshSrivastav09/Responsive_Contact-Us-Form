@@ -1,7 +1,7 @@
 # Responsive_Contact-Us-Form
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/nguyenanhung/nguyenanhung/master/assets/Hand%20Wave.gif" width="50"> I'm Utkarsh Srivastav</h1>
 <h3 align="center">I'm Pursuing From Bachelor of Computer Applications</h3>
-<br> Your site is live at https://utkarshsrivastav09.github.io/Responsive_Contact-Us-Form/
+<br> Site is live at https://utkarshsrivastav09.github.io/Responsive_Contact-Us-Form/
 
 <br><img align="left" alt="coding" src="https://img.freepik.com/free-vector/javascript-frameworks-concept-illustration_114360-734.jpg?ga=GA1.1.158741866.1733638931&semt=ais_hybrid&w=740" width="400">
 
